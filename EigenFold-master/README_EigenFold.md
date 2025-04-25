@@ -117,7 +117,7 @@ name,seqres,path
 
 - **Project Name:** EigenFold Student Implementation
 - **Course:** Advanced Deep Learning (Spring 2025)
-- **Instructor:** Prof. [Name]
+- **Instructor:** Prof. Akash Murthy
 - **Institution:** Northeastern University
 - **Authors:** Nitish Chowdary K, Rahul, Aditi
 
