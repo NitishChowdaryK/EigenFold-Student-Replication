@@ -116,10 +116,10 @@ name,seqres,path
 ## 🙋‍♂️ Project Info
 
 - **Project Name:** EigenFold Student Implementation
-- **Course:** Advanced Deep Learning (Spring 2025)
+- **Course:** Data Science Methods and Tools (Spring 2025)
 - **Instructor:** Prof. Akash Murthy
 - **Institution:** Northeastern University
-- **Authors:** Nitish Chowdary K, Rahul, Aditi
+- **Authors:** Nitish Chowdary K, Rahul Bothra, Aditi Maurya
 
 ---
 
@@ -148,7 +148,4 @@ name,seqres,path
 
 ---
 
-## ⚠️ Disclaimer
 
-This is a **student reproduction** for academic purposes. The official implementation can be found at:  
-👉 https://github.com/bjing2016/EigenFold
